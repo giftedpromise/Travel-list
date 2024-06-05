@@ -195,5 +195,6 @@ input[type="checkbox"] {
 
   .list {
     padding-bottom: 6rem;
+    height: 60%;
   }
 }

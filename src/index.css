@@ -150,4 +150,11 @@ input[type="checkbox"] {
     font-size: 4rem;
     word-spacing: 10px;
   }
+
+  .add-form {
+    padding: 2.8rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+  }
 }

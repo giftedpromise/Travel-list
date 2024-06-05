@@ -136,3 +136,17 @@ input[type="checkbox"] {
   font-weight: 700;
   padding: 3.2rem 0;
 }
+
+@media (max-width: 768px) {
+  html {
+    font-size: 25.5%;
+  }
+
+  .app {
+    height: 80vh;
+  }
+
+  h1 {
+    font-size: 4rem;
+  }
+}

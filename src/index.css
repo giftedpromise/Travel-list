@@ -192,4 +192,8 @@ input[type="checkbox"] {
     align-items: center;
     gap: 2rem;
   }
+
+  .list {
+    padding-bottom: 6rem;
+  }
 }
